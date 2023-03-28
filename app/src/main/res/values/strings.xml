@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">bottomNav</string>
+    <string name="library">library</string>
+    <string name="subscription">subscription</string>
+    <string name="explore">explore</string>
+    <string name="home">home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello home fragment</string>
+    <string name="hello_explore_fragment">Hello explore fragment</string>
+    <string name="hello_library_fragment">Hello library fragment</string>
+    <string name="hello_subs_fragment">Hello subs fragment</string>
+    <string name="to_profile">Ke Activity Profile Activity</string>
+    <string name="to_category">Ke fragment Category</string>
+    <string name="this_profile">Ini activity Profile</string>
+    <string name="this_category">Ini fragment Category</string>
+    <string name="category_lifestyle">Ke fragment Lifestyle</string>
+    <string name="category_sport">Ke fragment Sport</string>
+    <string name="category_name">Category Name</string>
+    <string name="category_description">Category Description</string>
+    <string name="to_home">Ke fragment Home</string>
+    <string name="this_activity">Ini adalah menu activity</string>
+    <string name="this_fragment">Ini adalah menu fragment</string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="search_hint">Masukkan kata</string>
+</resources>
